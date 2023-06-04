@@ -36,12 +36,13 @@ we created a new column Age Group by applying a rule i.e.
 Now we created a new "Month" column.
 
 ## Data Analysis
-#Order Vs Sales
+# Order Vs Sales
+
 ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/addaade3-b68c-4904-b629-85006d689630)
 - we find that sales and number of orders are highest for march.
 
 # Sales Men Vs Women
-   ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/0712f733-6a09-4a3a-9358-a42300cf02c0)
+![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/0712f733-6a09-4a3a-9358-a42300cf02c0)
 
 
 
