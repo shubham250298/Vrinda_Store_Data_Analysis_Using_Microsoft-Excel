@@ -9,7 +9,7 @@ This project focuses on analyzing the sales data of Vrinda Store using Excel. Th
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
 - What are different order status in 2022?
-- List top 10 states contributingto the sales?
+- List top 5 states contribute into the sales?
 - Relation between age and gender based on number of orders.
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
@@ -52,6 +52,8 @@ Now we created a new "Month" column.
 
 # Sales Top 5 States
 ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/79ac58af-19aa-4a6f-a64b-fd9346f2289f)
+
+- We can see the contribution of Top States in above diagram.
 
 
 
