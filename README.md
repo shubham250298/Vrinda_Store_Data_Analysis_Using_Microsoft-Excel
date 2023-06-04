@@ -34,3 +34,7 @@ we created a new column Age Group by applying a rule i.e.
 - If age <30 then Teenager
 
 Now we created a new "Month" column.
+
+## Data Analysis
+
+
