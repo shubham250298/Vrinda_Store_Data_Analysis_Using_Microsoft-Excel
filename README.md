@@ -38,6 +38,7 @@ Now we created a new "Month" column.
 ## Data Analysis
 #Order Vs Sales
 ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/addaade3-b68c-4904-b629-85006d689630)
+- we find that sales and number of orders is highest for march.
 
 
 
