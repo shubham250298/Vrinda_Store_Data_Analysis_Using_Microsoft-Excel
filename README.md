@@ -4,6 +4,8 @@ Vrinda Store wants to create an Annual sales report so that, Vrinda can understa
 
 This project focuses on analyzing the sales data of Vrinda Store using Excel. The dataset was cleaned, processed, and analyzed to extract insights about the store's performance.
 
+
+
 ## Methodologies Used
 - Data cleaning techniques were applied to handle missing values, outliers, and inconsistencies.
 - Data processing scripts were developed to transform the data into a suitable format for analysis.
