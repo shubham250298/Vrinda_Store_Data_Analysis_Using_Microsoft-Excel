@@ -50,6 +50,10 @@ Now we created a new "Month" column.
 # ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/985aa581-36fa-4a8a-9b07-b1a444937c99)
 - We find that 92 % orders delivered while 2 % cancelled. 
 
+# Sales Top 5 States
+![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/79ac58af-19aa-4a6f-a64b-fd9346f2289f)
+
+
 
 
 
