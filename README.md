@@ -36,5 +36,8 @@ we created a new column Age Group by applying a rule i.e.
 Now we created a new "Month" column.
 
 ## Data Analysis
+#Order Vs Sales
+![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/96cc0904-c156-43c6-8ac6-56146057f771)
+
 
 
