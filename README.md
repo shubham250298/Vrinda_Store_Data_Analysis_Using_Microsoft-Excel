@@ -63,6 +63,10 @@ Now we created a new "Month" column.
 ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/e3b896b0-0105-46ea-bdc6-d6bf7f78f336)
 - We find that highest orders were requested by Amazon and second highest orders for Myntra etc.
 
+# Dashboard
+![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/c48fed51-7fa3-43d3-8688-49fa8597dc78)
+
+
 
 
 
