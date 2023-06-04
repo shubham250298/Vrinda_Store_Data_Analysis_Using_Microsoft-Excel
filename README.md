@@ -14,6 +14,8 @@ This project focuses on analyzing the sales data of Vrinda Store using Excel. Th
 - Which Channel is contributing maximum to the sales?
 - Highest selling category?
 
+## Dataset used
+- Vrinda Store Data
 
 ## Methodologies Used
 - Data cleaning techniques were applied to handle missing values, outliers, and inconsistencies.
