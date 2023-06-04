@@ -65,6 +65,7 @@ Now we created a new "Month" column.
 
 # Dashboard
 ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/c48fed51-7fa3-43d3-8688-49fa8597dc78)
+## Project Insight
 
 
 
