@@ -45,6 +45,10 @@ Now we created a new "Month" column.
 ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/0712f733-6a09-4a3a-9358-a42300cf02c0)
 - We find that Women purchased more than Men
 
+# ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/985aa581-36fa-4a8a-9b07-b1a444937c99)
+- We find that 92 % orders delivered while 2 % cancelled. 
+
+
 
 
 
