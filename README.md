@@ -59,6 +59,10 @@ Now we created a new "Month" column.
 - We find adults have more orders. 
 - For Adults, Senior and Teenager in all cases Women have more orders than Men
 
+# Orders : Channel
+![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/e3b896b0-0105-46ea-bdc6-d6bf7f78f336)
+We find that highest orders were requested by Amazon and second highest orders for Myntra etc.
+
 
 
 
