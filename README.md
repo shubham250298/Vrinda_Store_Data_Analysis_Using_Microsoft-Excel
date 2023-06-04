@@ -54,6 +54,10 @@ Now we created a new "Month" column.
 ![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/79ac58af-19aa-4a6f-a64b-fd9346f2289f)
 
 - We can see the contribution of Top States in above diagram.
+# Orders: Age Vs Gender
+![image](https://github.com/shubham250298/Vrinda_Store_Data_Analysis_Using_Microsoft-Excel/assets/108235140/d88a7035-aff1-4bb0-83e1-60e61093eae8)
+- We find adults have more orders. 
+- For Adults, Senior and Teenager in all cases Women have more orders than Men
 
 
 
