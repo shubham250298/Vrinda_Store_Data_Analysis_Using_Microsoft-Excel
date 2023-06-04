@@ -23,4 +23,12 @@ This project focuses on analyzing the sales data of Vrinda Store using Excel. Th
 - Excel was utilized for data analysis, including calculations, visualizations, and the use of slicers for interactive filtering.
 
 ## Data Cleaning
-We checked 
+- We checked for null values in each column. In Gender column we there were some inconsistencies so we replaced M with Men and W with Women.
+- In QTY column we replaced One with 1.
+ Now our Dataset is cleaned.
+ 
+## Data processing
+we created a new column Age Group by applying a rule i.e. 
+- If age >= 50 then Senior
+- If age >= 30 then Adult and 
+- If age <30 then Teenager
