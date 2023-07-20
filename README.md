@@ -24,7 +24,7 @@ This project focuses on analyzing the sales data of Vrinda Store using Excel. Th
 
 ## Data Cleaning
 - We checked for null values in each column. In Gender column we there were some inconsistencies so we replaced M with Men and W with Women.
-- In QTY column we replaced One with 1.
+- In QTY column we replaced One with 1and Two with 2
  Now our Dataset is cleaned.
  
 ## Data processing
